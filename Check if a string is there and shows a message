@@ -1,0 +1,6 @@
+names = ["Almond" , "Peanut" , "Walnut"]
+Nut = "Almond" 
+if Nut in names :
+print ("yes there is")
+else :
+print ("no there is not") 
